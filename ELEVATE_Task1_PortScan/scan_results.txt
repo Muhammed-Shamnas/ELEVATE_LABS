@@ -1,0 +1,32 @@
+# Nmap 7.97SVN scan initiated Mon Aug  4 12:44:53 2025 as: nmap -sS -oN scan_results.txt 192.168.1.0/24
+Nmap scan report for 192.168.1.1
+Host is up (0.0093s latency).
+Not shown: 994 closed tcp ports (reset)
+PORT    STATE    SERVICE
+21/tcp  open     ftp
+22/tcp  filtered ssh
+23/tcp  filtered telnet
+53/tcp  open     domain
+80/tcp  open     http
+443/tcp open     https
+MAC Address: 14:A7:2B:94:CE:F2 (currentoptronics Pvt.Ltd)
+
+Nmap scan report for 192.168.1.6
+Host is up (0.0062s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT      STATE SERVICE
+62078/tcp open  iphone-sync
+MAC Address: 76:C9:DD:DC:52:4E (Unknown)
+
+Nmap scan report for 192.168.1.8
+Host is up (0.038s latency).
+All 1000 scanned ports on 192.168.1.8 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: AE:A7:08:38:0D:CC (Unknown)
+
+Nmap scan report for 192.168.1.18
+Host is up (0.0000020s latency).
+All 1000 scanned ports on 192.168.1.18 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+# Nmap done at Mon Aug  4 12:45:53 2025 -- 256 IP addresses (4 hosts up) scanned in 59.86 seconds

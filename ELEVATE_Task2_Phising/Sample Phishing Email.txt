@@ -1,0 +1,17 @@
+From: support@paypal.com <support@pypl-support.com>
+To: you@example.com
+Subject: Urgent: Account Suspension Notice!
+
+Dear Customer,
+
+We have noticed suspicious activity in your PayPal account. For your security, your account has been temporarily suspended. To restore access, please verify your identity immediately.
+
+Click here to verify your account: http://paypal-security-check.com/login
+
+Failure to verify will result in permanent suspension.
+
+Thank you,
+PayPal Security Team
+
+Attachment: verify_account.pdf
+
